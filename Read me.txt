@@ -1,0 +1,7 @@
+Cài đặt đồ án:
+	1. Giải nén DA_QuanLiKhachSan.rar 
+	2. Chạy file Manager_Hotel.sln bằng Visual Studio 
+	3. Mở file SQL_QuanLyKhacSan.sql bằng SQL Server Management Studio 
+	4. Chạy file trên để cài CSDL 
+	5. Kết nối cơ sở dữ liệu trên Visual Studio
+	6. Sửa lại chuổi kết nói theo máy của bạn trong file Connection.cs 
